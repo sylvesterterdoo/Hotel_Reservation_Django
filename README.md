@@ -6,7 +6,7 @@ This Hotel Reservation API is a Django application that provides a REST API that
 `{ name: <name of hotel> ..... }`
 
 ## Get Started
-Ensure you have Python and pip installed on your system to manage packages and run the developement server.
+Ensure you have Python and Django installed on your system to manage packages and run the developement server.
 
 ## How to access the REST API
 To get the list of hotels in the database you use the GET request `http://localhost:8000/app/hotels`, 
